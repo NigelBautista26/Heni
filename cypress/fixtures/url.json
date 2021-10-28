@@ -1,0 +1,9 @@
+{
+    "mainPage": "http://localhost:3000/SnapShot#/SnapScout",
+    "mountainPage": "http://localhost:3000/SnapShot#/SnapScout/mountain",
+    "beachesPage": "http://localhost:3000/SnapShot#/SnapScout/beach",
+    "birdsPage": "http://localhost:3000/SnapShot#/SnapScout/bird",
+    "foodPage": "http://localhost:3000/SnapShot#/SnapScout/crow",
+    "owlSearchUrlInclude": "SnapScout/search/Owl",
+    "noImageUrlInclude": "SnapScout/search/asdasdsa12312312312"
+  }
